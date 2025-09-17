@@ -10,3 +10,5 @@ function capitalizeword(sentence){
 }
 const sentence = prompt("enter the sentence");
 console.log(capitalizeword(sentence));
+
+ 
